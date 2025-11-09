@@ -1,5 +1,5 @@
 # 🖋️ About Me:
-🎓 IT student building skills in Python, Data Analytics, & AI  <br>📚 Certified in IT Essentials and expanding my technical knowledge  <br>💻 Exploring Python, C# & R programming languages  <br><br>🚀 Future goals:  <br>- AI/ML Engineering  <br>- Fullstack Development  <br><br>🤝 Open to contributing to IT and tech-related projects<br>
+🎓 IT student building skills in Python, Data Analytics, & AI  <br>📚 Certified in IT Essentials and expanding my technical knowledge  <br>💻 Exploring Python, C# & R programming languages  <br><br>🚀 Future goals:  <br>- AI/ML Engineering  <br>- Data Analytics/Data Science  <br><br>🤝 Open to contributing to IT and tech-related projects<br>
 
 
 # 💻 Tech Stack:
