@@ -24,3 +24,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![An image of @huseynalimehdiyev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/huseynalimehdiyev)](https://holopin.io/@huseynalimehdiyev)
+[![An image of @huseynalimehdiyev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/huseynalimehdiyev)](https://holopin.io/@huseynalimehdiyev)
