@@ -18,9 +18,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=huseynalimehdiyev&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huseynalimehdiyev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=huseynalimehdiyev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
 
 # 🎖Badges
 [![An image of @huseynalimehdiyev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/huseynalimehdiyev)](https://holopin.io/@huseynalimehdiyev)
